@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727406006 source:c:\users\asus\desktop\learn c\calgrade\main.c
+	<stdio.h>
+	<stdlib.h>
+
